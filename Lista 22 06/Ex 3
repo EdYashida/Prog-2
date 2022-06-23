@@ -1,0 +1,39 @@
+Classe: Main
+
+Patos[2]
+Iniciar
+Encerrar
+
+
+Classe: Pato Jogador
+
+CoordenadaX
+CoordenadaY
+Cor
+Vivo
+Força
+Angulo
+Colisão
+
+Método: Atirar
+
+Método: Ajustar força
+
+Método: Ajustar ângulo
+
+Método: Nadar
+
+
+
+Classe: Pato inimigo
+
+PosiçãoX;
+PosiçãoY;
+Cor;
+Vida;
+
+Método: Morrer
+
+Método: Ajustar ângulo
+
+Mètodo: Nadar
