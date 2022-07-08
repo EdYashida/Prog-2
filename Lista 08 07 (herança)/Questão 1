@@ -1,0 +1,13 @@
+1. Considerando a pergunta “A é um B” no contexto da herança, assinale quais classes
+abaixo podem ser implementadas como subclasses da respectiva superclasse:
+a. (x) Cachorro extends Mamíferos
+b. (x) MemoriaRAM extends Memória
+c. ( ) Aluno extends Professor
+d. (x) Professor extends Pessoa
+e. (x) Mouse extends Periferico
+f. ( ) Periferico extends Modem
+g. ( ) Modem extends Computador
+h. ( ) ComputadorPessoal extends Notebook
+i. ( ) Veiculo extends Aviao
+j. ( ) Conta extends Poupanca
+k. ( ) Aviao extends Aeroporto
