@@ -1,0 +1,15 @@
+public class Ponto{
+  int pontoX;
+  int pontoY;
+
+  public Ponto(){
+   pontoX=0;
+   pontoY=0;
+  }
+
+  public Ponto(int x, int y){
+    pontoX=x;
+    pontoY=y;
+  }
+  
+}
