@@ -1,0 +1,17 @@
+5. Qual a saída do seguinte código?
+
+1: class Mamifero{
+2: public Mamifero (int idade){
+3: System.out.println(“Mamifero”);
+4: }
+5: }
+6: public class Ornitorrinco extends Mamifero {
+7: public Ornitorrinco ( ) {
+8: System.out.println (“Ornitorrinco”);
+9: }
+10: public static void main (String[ ] args) {
+
+11: new Mamifero (5);
+12: }}
+
+F. O código não compila devido a um erro na linha 11
