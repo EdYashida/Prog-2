@@ -1,0 +1,26 @@
+Aceso
+
+pirvate
+public
+protcted
+nada(default)
+
+
+final
+abstract
+Static
+
+
+
+
+
+Abstract não tem corpo, então não pode ser final e nem static(se classe for abstract ela só pode ser abstract)
+
+
+
+
+
+Com static em metodo, ele pode ser chamado sem precisar instancear objeto da classe onde ele se encontra.
+Se aplicado a atributo, esse atributo será igual para todos os objetos gerados da classe. então se há um atributo "boolean LarissinhaFofinha"
+e eu instancio 2 obejetos da classe onde o atributo é encontrado. L1 e L2
+Se eu deixar L1.LarissinhFofinha=true.    O atributo LarissinhaFofinha de L2 também será true;
